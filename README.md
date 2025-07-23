@@ -1,24 +1,44 @@
-Korean
-2차 프로젝트 - 의류 생산 관리
-24/01/30 ~ 24/02/14
+---
 
-생산 Data와 연계한 WEB 프로그램 - 웹서버 운용 노하우 습득 및 생산데이터 웹화면에서 관리하는 기술 습득
+## 📌 Project: Clothes Production Management System (SCM)
 
-English
+**Duration:** January 30, 2024 – February 14, 2024
+**Team Size:** 5 members
+**Tools Used:** STS Eclipse, SQL Developer, DBeaver, Library, StarUML, Git
 
-Project: Clothes Production Management System (SCM)
+---
 
-Duration: January 30, 2024 – February 14, 2024
-Team Size: 5 members
-Tools Used: STS Eclipse, SQL Developer, DBeaver, Library, StarUML, Git
-Project Description:
-As part of a team project during the boot camp, we developed a Clothes Production Management System aimed at efficiently managing and tracking the production processes within the clothing industry. This project was executed over a span of two weeks with a team of five members. The main goal was to create a robust system using Java and Oracle Database for backend data management, while providing a user-friendly web interface using JSP, HTML, CSS, JavaScript, and jQuery.
+### 📝 Project Description
 
-Key aspects of the project included:
+As part of a team project during a boot camp, we developed a **Clothes Production Management System** designed to efficiently manage and track production processes in the clothing industry.
 
-Backend Development: Utilized Java (JDBC) and Oracle Database to ensure reliable and efficient data management.
-Frontend Development: Implemented a responsive and intuitive web interface using JSP, HTML, CSS, JavaScript, and jQuery.
-Collaboration and Tools: The project was managed and developed using STS Eclipse for coding, SQL Developer and DBeaver for database management, StarUML for designing, and Git for version control.
-This project provided valuable experience in full-stack development, enhancing my skills in both backend and frontend technologies, and fostering teamwork and collaboration in a real-world scenario.
+This two-week project involved a team of five members. Our primary objective was to build a robust backend using **Java** and **Oracle Database**, while also creating a user-friendly web interface using **JSP**, **HTML**, **CSS**, **JavaScript**, and **jQuery**.
 
-PPT: https://www.canva.com/design/DAF8pZSGyyk/g4QLEn0fPP6clyMjJdBRxQ/edit?utm_content=DAF8pZSGyyk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+---
+
+### 🔧 Key Features
+
+* **Backend Development:**
+  Built using Java (JDBC) and Oracle Database to ensure reliable and efficient data processing.
+
+* **Frontend Development:**
+  Developed a responsive and intuitive web interface with JSP, HTML, CSS, JavaScript, and jQuery.
+
+* **Collaboration & Tools:**
+  The project was managed using STS Eclipse for development, SQL Developer and DBeaver for database management, StarUML for system design, and Git for version control.
+
+---
+
+### 💡 What I Learned
+
+This project provided valuable experience in full-stack development, enhancing my skills in both backend and frontend technologies. It also strengthened my ability to collaborate effectively in a real-world team environment.
+
+---
+
+### 📎 PPT Presentation
+
+[View on Canva](https://www.canva.com/design/DAF8pZSGyyk/g4QLEn0fPP6clyMjJdBRxQ/edit?utm_content=DAF8pZSGyyk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+---
+
+필요하다면 한글 번역, 한국어 버전 README, 또는 Markdown 형식도 도와줄 수 있어요. 원해? 😊
