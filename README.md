@@ -2,9 +2,13 @@
 
 ## 📌 Project: Clothes Production Management System (SCM)
 
-**Duration:** January 30, 2024 – February 14, 2024
-**Team Size:** 5 members
-**Tools Used:** STS Eclipse, SQL Developer, DBeaver, Library, StarUML, Git
+name: Clothes SCM Project
+duration: "2024-01-30 to 2024-02-14"
+team_size: 5
+tools:
+  - STS Eclipse
+  - SQL Developer
+  - DBeaver
 
 ---
 
