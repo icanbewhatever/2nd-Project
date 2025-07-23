@@ -38,7 +38,3 @@ This project provided valuable experience in full-stack development, enhancing m
 ### 📎 PPT Presentation
 
 [View on Canva](https://www.canva.com/design/DAF8pZSGyyk/g4QLEn0fPP6clyMjJdBRxQ/edit?utm_content=DAF8pZSGyyk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
----
-
-필요하다면 한글 번역, 한국어 버전 README, 또는 Markdown 형식도 도와줄 수 있어요. 원해? 😊
